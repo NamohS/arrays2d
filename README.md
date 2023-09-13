@@ -16,10 +16,12 @@ The next few lines of code, int sum[2][2]; cout<<"sum:"<<endl; for(int i=0;i<r1;
 Finally, the last line of code, return 0;, terminates the program.
 
 INPUT:
+
         enter rows and columns for array1: 2
         enter rows and columns for array2: 2
         enter element  for array 1: 1
         1
+        
 
 OUTPUT:
 
