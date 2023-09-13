@@ -63,6 +63,7 @@ OUTPUT:
 * The code prints the transposed matrix.
 
 INPUT:
+
         enter rows and columns for array: 3
         3
 
