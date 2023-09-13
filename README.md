@@ -19,8 +19,8 @@ INPUT:
 
         enter rows and columns for array1: 2
         enter rows and columns for array2: 2
-        enter element  for array 1: 1
-        1
+        enter element  for array 1: 1   1
+        enter element for array 2 : 2   2
         
 
 OUTPUT:
