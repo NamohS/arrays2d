@@ -52,3 +52,34 @@ OUTPUT:
 
         11 14
         20 28
+
+#### 3][TRANSPOSE OF 2D MATRIX](transpose2d.cpp)
+
+* The code first declares variables r and c to store the number of rows and columns of the matrix
+* The code then gets the dimensions of the matrix from the user.
+* The code declares a 2D array arr to store the elements of the matrix.
+* The code inputs the elements of the matrix from the user.
+* The code transposes the matrix by iterating over the rows and columns of the matrix and swapping the elements.
+* The code prints the transposed matrix.
+
+INPUT:
+        enter rows and columns for array: 3
+        3
+
+        enter element  for array 1: 1
+        2
+        3
+
+        enter element for array 2 : 4
+        5
+        6
+
+        enter element for array 3 : 7
+        8
+        9
+
+OUTPUT:
+
+        1 4 7
+        2 5 8
+        3 6 9
