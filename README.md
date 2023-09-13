@@ -39,3 +39,16 @@ OUTPUT:
 * The program stores the product in the res matrix.
 * The program prints the product matrix.
 *If the matrices cannot be multiplied, the program prints an error message.
+
+INPUT:
+
+        enter rows and columns for array1: 2
+        enter rows and columns for array2: 2
+        enter element  for array 1: 1
+        2
+        enter element for array 2 : 3
+        4
+OUTPUT:
+
+        11 14
+        20 28
