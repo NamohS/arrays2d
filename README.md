@@ -27,3 +27,15 @@ OUTPUT:
 
         sum:
         3 3
+#### 2][Multiplication of 2d Arrays](mulofarrasy2d.cpp)
+
+*The program first declares variables r1, c1, r2, and c2 to store the number of rows and columns of the two matrices.
+ *The program then gets the dimensions of the matrices from the user.
+*The program declares two matrices arr and arr1 to store the elements of the two matrices.
+*The program inputs the elements of the two matrices from the user.
+*The program checks if the matrices can be multiplied by checking if the number of columns in the first matrix is equal to the number of rows in the second matrix.
+*If the matrices can be multiplied, the program declares a matrix res to store the product of the two matrices.
+*The program iterates over the rows of the first matrix and columns of the second matrix to calculate the product of the elements at each position.
+*The program stores the product in the res matrix.
+*The program prints the product matrix.
+*If the matrices cannot be multiplied, the program prints an error message.
